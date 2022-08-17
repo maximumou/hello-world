@@ -3,6 +3,7 @@
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <p>Date:2022, Aug 17 11:22 AM udpated</p>
+    <p>Date:2022, Aug 17 11:25 AM udpated</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
