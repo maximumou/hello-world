@@ -2,12 +2,6 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>Date:2022, Aug 17 11:22 AM udpated</p>
-    <p>Date:2022, Aug 17 11:25 AM udpated</p>
-    <p>Date:2022, Aug 17 11:29 AM udpated</p>
-    <p>Date:2022, Aug 17 11:37 AM #5 udpated</p>
-    <p>Date:2022, Aug 17 12:02 PM #6 udpated</p>
-    <p>Date:2022, Aug 17 12:15 PM #7 udpated</p>
     <p>Date:2022, Aug 17 12:18 PM #8 udpated</p>
     <p>Date:2022, Aug 17 12:24 PM #9 udpated</p>
     <p>Date:2022, Aug 17 1:37 PM #9 udpated</p>
